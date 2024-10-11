@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an AI Medical Issue**
+ 🔭 I’m currently working on **an AI Medical Project**
  
- 🌱 I’m currently learning **DevOps, LLM, AWS**
+ 🌱 I’m currently learning **DevOps, LLM, Cloud**
 
  </div>
  
