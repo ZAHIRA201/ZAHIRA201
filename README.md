@@ -5,7 +5,6 @@
 </h1>
 
 <h2 align="center">Data Engineer | Data Scientist Student</h2>
-<h3 align="center">Looking for a PFE Internship by 2025</h3>
 <br/>
 
 <div align="center">
