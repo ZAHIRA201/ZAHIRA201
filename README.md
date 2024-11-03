@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+🤗✨;+I'm+Fatima+Ez-zahra+CHAKIR!;" />
 </h1>
 
-<h2 align="center">Data and Software Engineering Student</h2>
-<h3 align="center">Looking for a PFE Internship of 2025</h3>
+<h2 align="center">Data Engineer | Data Scientist Student</h2>
+<h3 align="center">Looking for a PFE Internship by 2025</h3>
 <br/>
 
 <div align="center">
