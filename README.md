@@ -40,6 +40,10 @@
 <br/>
 <hr/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=27&duration=4700&pause=700&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=450&height=60&lines=Code+with+peace%2C+flow+with+grace" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
