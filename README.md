@@ -38,6 +38,12 @@
 <br/>
 <hr/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=27&duration=4700&pause=700&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=450&height=60&lines=Code+with+peace%2C+flow+with+grace+✨" alt="Typing SVG" />
 </p>
