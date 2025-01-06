@@ -32,7 +32,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,html,css,vscode,github,figma,r,git,aws,gcp,azure,docker,flutter,kubernetes,githubactions,gitlab,idea&theme=light&perline=19" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,flask,anaconda,visualstudio,ubuntu,stackoverflow,linux,jenkins,kafka,maven, postgresql&theme=light&perline=16" />
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake-dark.svg" />
@@ -48,5 +48,6 @@
 </p>
 
 <hr/>
+</div>
 
 <br/>
