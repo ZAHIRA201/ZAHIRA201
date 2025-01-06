@@ -34,8 +34,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,flask,anaconda,visualstudio,ubuntu,stackoverflow,linux,jenkins,kafka,maven, postgresql&theme=light&perline=16" />
 </div>
 
-
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake.svg" />
