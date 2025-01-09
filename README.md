@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+🤗✨;+I'm+Fatima+Ez-zahra+CHAKIR!;" />
 </h1>
 
-<h2 align="center">Data Engineer | Data Scientist Student</h2>
+<h2 align="center">Data Engineer Student</h2>
 
 <br/>
 
