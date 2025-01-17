@@ -38,7 +38,6 @@
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 
 #### Data Engineering:
 <div align="center">
@@ -103,8 +102,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
 
+<h2 align="center">🏆 Trophies 🏆</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=ZAHIRA201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+<h2 align="center"> 🐍 ATE 🐍</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake-dark.svg" />
