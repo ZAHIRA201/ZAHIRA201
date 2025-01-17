@@ -73,7 +73,7 @@
 
 #### Scripting & Automation :
 <div align="center"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" /> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" style="filter: invert(100%); mix-blend-mode: difference;" alt="bash" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" /> 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" />  
