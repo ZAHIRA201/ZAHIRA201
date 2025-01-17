@@ -27,7 +27,16 @@
 </div>
 
  <hr/>
- 
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAHIRA201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZAHIRA201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![](https://github-contributor-stats.vercel.app/api?username=ZAHIRA201&limit=4&theme=aura_dark&combine_all_yearly_contributions=true)
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
@@ -67,8 +76,7 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" /> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" /> 
-<img src="https://raw.githubusercontent.com/beautifulsoup4/beautifulsoup4.github.io/main/assets/icon.svg" height="40" alt="beautifulsoup" /> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" />  
 </div>
 
 #### Data Science :
@@ -94,15 +102,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAHIRA201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZAHIRA201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-![](https://github-contributor-stats.vercel.app/api?username=ZAHIRA201&limit=4&theme=aura_dark&combine_all_yearly_contributions=true)
-</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=ZAHIRA201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
