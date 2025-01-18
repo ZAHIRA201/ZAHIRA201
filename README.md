@@ -24,7 +24,7 @@
 <a href="https://www.datacamp.com/profile/chakirfez" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
 </div>
 
-### Me as a Data Engineer 👩‍💻 :
+## Me as a Data Engineer 👩‍💻 :
 
 <hr/>
 <div align="center">
@@ -114,12 +114,14 @@
 
 <br/>
 
-### Me as a Person 🦋 :
 
 <hr/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=27&duration=4700&pause=700&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=450&height=60&lines=Code+with+peace%2C+flow+with+grace+✨" alt="Typing SVG" />
 </p>
+<hr/>
+
+## Me as a Person 🦋 :
 <hr/>
 
 <p align="center">
@@ -132,7 +134,7 @@ When I’m not architecting databases, you’ll find me at the gym, pushing my l
 
 <br>
 <div align="center">
-<img align="center" alt="gym" width="400" src="https://github.com/ZAHIRA201/ZAHIRA201/blob/main/Gym_Fatty.gif">
+<img align="center" alt="gym" width="400" src="https://github.com/ZAHIRA201/ZAHIRA201/Gym_Fatty.gif">
 </div>
 <br>
 
