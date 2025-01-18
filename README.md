@@ -99,7 +99,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
-
+</div>
 <h2 align="center">🏆 Trophies 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=ZAHIRA201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
