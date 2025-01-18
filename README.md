@@ -152,6 +152,23 @@
 </div>
 <br>
 
+## My Guitar 🎸 :  
+<div align="center">
+  <p>Music is my other passion, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own tunes, I find solace and creativity in every note. Playing the guitar allowed me to unwind and explore new ways of expression outside of data and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Acoustic_Guitar.gif" alt="guitar" width="450">
+</div>
+<br>
+
+## Meditation & Moving Forward 🧘‍♀️📈 :   
+<div align="center">
+  <p>Meditation grounds me. It’s the tool that helps clear my mind from all the noise(+Gym), allowing me to focus on what truly matters. Every day is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon" alt="read" width="300">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="300">
+</div>
+<br> 
+
+
+
 
 
 </div>
