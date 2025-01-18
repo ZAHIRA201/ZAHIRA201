@@ -128,7 +128,7 @@
 ## Gym 🏋️‍♂️ :
 <div align="center">
   <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty.gif" alt="gym" width="200">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty.gif" alt="gym" width="250">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty1.gif" alt="gym" width="250">
 </div>
 <br>
@@ -137,8 +137,8 @@
 <div align="center">
   <p>In my free time; the world of psychology and philosophy is where I dive deep for self-understanding and growth. My gentlemen Fyodor Dostoevsky and Carl Jung have influenced my thinking profoundly. Human nature, moral dilemmas, and the complexity of suffering resonates with the intricate puzzles I encounter in life and data field. Dostoevsky's writings inspire me to ask the hard questions and explore the depths of the human psyche.  
   Carl Jung is concept of individuation is a guiding principle in my life, encouraging a balance between light and shadow within myself. Together, their works shape my approach to both understanding data, my data ! and the human behaviors in general. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast.gif" alt="read" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast_1.gif" alt="read" width="300">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast.gif" alt="read" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast_1.gif" alt="read" width="250">
 
 </div>
 <br>
@@ -154,20 +154,16 @@
 ## My Guitar 🎸 :  
 <div align="center">
   <p>Music is my other passion besides data, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own sweety tunes, I find solace and creativity in every note I make. Playing the guitar allowed me to unwind and explore another way of expressing myself outside bytes and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Acoustic_Guitar.gif" alt="guitar" width="450">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Acoustic_Guitar.gif" alt="guitar" width="400">
 </div>
 <br>
 
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
   <p>Meditation and Spirituality ground me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
-<<<<<<< HEAD
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Meditation_Moon.gif" alt="read" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Sailor_Her.gif" alt="read" width="300">
-=======
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon.gif" alt="read" width="250">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="250">
->>>>>>> ed00aa43f0473c0fa1b346053275f3cd6190aad2
+
 </div>
 <br> 
 Etc...
