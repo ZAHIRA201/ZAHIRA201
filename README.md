@@ -16,7 +16,7 @@
 
  </div>
  
-<h2 align="left">Let's connect on :</h2>
+<h2 align="center">Let's connect on :</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
