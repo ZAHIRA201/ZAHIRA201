@@ -130,11 +130,11 @@
 <br>
 
 ### Gym 🏋️‍♂️ :  
-When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical—it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically.  
 
 <br>
-<div align="center">
-<img align="center" alt="gym" width="400" src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif">
+<div style="display: flex; align-items: center;">
+  <p>YWhen I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical—it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="400">
 </div>
 <br>
 
