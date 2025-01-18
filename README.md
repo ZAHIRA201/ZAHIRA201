@@ -134,7 +134,7 @@ When I’m not architecting databases, you’ll find me at the gym, pushing my l
 
 <br>
 <div align="center">
-<img align="center" alt="gym" width="400" src="https://github.com/ZAHIRA201/ZAHIRA201/Gym_Fatty.gif">
+<img src="https://github.com/ZAHIRA201/ZAHIRA201/Gym_Fatty.gif" alt="gym" width="400">
 </div>
 <br>
 
