@@ -145,6 +145,14 @@
 </div>
 <br>
 
+## Me & My Cat 🐱 :  
+<div align="center">
+  <p>A glimpse into my life wouldn’t be complete without mentioning my furry companion. My cat is not just a pet, she’s a partner in crime. We share quiet moments, playful interactions and we had even solved bugs together, yes we did ! </p>
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Cat_Blussom.gif" alt="cat" width="450">
+</div>
+<br>
+
+
 
 </div>
 
