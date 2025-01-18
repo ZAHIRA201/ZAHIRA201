@@ -16,14 +16,11 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:chakirfatimaezzahra3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
+<h2 align="left">Let's connect on :</h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.hackerrank.com/profile/f_zahra" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-000.svg?style=for-the-badge&logo=HackerRank&logoColor=2EC866"/></a>
 </div>
 
  <hr/>
