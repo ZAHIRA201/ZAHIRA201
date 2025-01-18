@@ -154,7 +154,7 @@
 
 ## My Guitar 🎸 :  
 <div align="center">
-  <p>Music is my other passion, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own tunes, I find solace and creativity in every note. Playing the guitar allowed me to unwind and explore new ways of expression outside of data and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
+  <p>Music is my other passion besides data, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own sweety tunes, I find solace and creativity in every note I make. Playing the guitar allowed me to unwind and explore another way of expressing myself outside bytes and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Acoustic_Guitar.gif" alt="guitar" width="450">
 </div>
 <br>
@@ -166,6 +166,7 @@
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="300">
 </div>
 <br> 
+Etc...
 
 </div>
 
