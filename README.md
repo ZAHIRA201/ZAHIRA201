@@ -18,10 +18,15 @@
  
 <h2 align="left">Let's connect on :</h2>
 
+<style>
+.badge {
+  background-color: red;
+}
+</style>
 <div align="center">
-<a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="https://www.hackerrank.com/profile/f_zahra" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-000.svg?style=for-the-badge&logo=HackerRank&logoColor=2EC866"/></a>
-<a href="https://www.datacamp.com/profile/chakirfez" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
+<a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue" class="badge"/></a>
+<a href="https://www.hackerrank.com/profile/f_zahra" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-000.svg?style=for-the-badge&logo=HackerRank&logoColor=2EC866" class="badge"/></a>
+<a href="https://www.datacamp.com/profile/chakirfez" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F" class="badge"/></a>
 </div>
 
  <hr/>
