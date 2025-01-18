@@ -53,6 +53,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" /> 
 </div>
 
 #### Cloud & DevOps:
@@ -67,14 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab"  />
-</div>
-
-#### Scripting & Automation :
-<div align="center"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" /> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" />  
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" />
 </div>
 
 #### Data Science :
@@ -132,8 +128,8 @@
 ## Gym 🏋️‍♂️ :
 <div align="center">
   <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty1.gif" alt="gym" width="300">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty1.gif" alt="gym" width="250">
 </div>
 <br>
 
@@ -141,8 +137,8 @@
 <div align="center">
   <p>In my free time; the world of psychology and philosophy is where I dive deep for self-understanding and growth. My gentlemen Fyodor Dostoevsky and Carl Jung have influenced my thinking profoundly. Human nature, moral dilemmas, and the complexity of suffering resonates with the intricate puzzles I encounter in life and data field. Dostoevsky's writings inspire me to ask the hard questions and explore the depths of the human psyche.  
   Carl Jung is concept of individuation is a guiding principle in my life, encouraging a balance between light and shadow within myself. Together, their works shape my approach to both understanding data, my data ! and the human behaviors in general. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast.gif" alt="read" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast_1.gif" alt="read" width="300">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast.gif" alt="read" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast_1.gif" alt="read" width="250">
 </div>
 <br>
 
@@ -163,8 +159,8 @@
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
   <p>Meditation and Spirituality ground me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon.gif" alt="read" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="300">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon.gif" alt="read" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="250">
 </div>
 <br> 
 Etc...
