@@ -128,13 +128,8 @@
 ## Gym 🏋️‍♂️ :
 <div align="center">
   <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
-<<<<<<< HEAD
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty.gif" alt="gym" width="300">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty1.gif" alt="gym" width="300">
-=======
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty1.gif" alt="gym" width="250">
->>>>>>> ed00aa43f0473c0fa1b346053275f3cd6190aad2
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty.gif" alt="gym" width="200">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Gym_Fatty1.gif" alt="gym" width="250">
 </div>
 <br>
 
@@ -142,13 +137,9 @@
 <div align="center">
   <p>In my free time; the world of psychology and philosophy is where I dive deep for self-understanding and growth. My gentlemen Fyodor Dostoevsky and Carl Jung have influenced my thinking profoundly. Human nature, moral dilemmas, and the complexity of suffering resonates with the intricate puzzles I encounter in life and data field. Dostoevsky's writings inspire me to ask the hard questions and explore the depths of the human psyche.  
   Carl Jung is concept of individuation is a guiding principle in my life, encouraging a balance between light and shadow within myself. Together, their works shape my approach to both understanding data, my data ! and the human behaviors in general. </p>
-<<<<<<< HEAD
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast.gif" alt="read" width="300">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast_1.gif" alt="read" width="300">
-=======
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast.gif" alt="read" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Beauty _And _The _Beast_1.gif" alt="read" width="250">
->>>>>>> ed00aa43f0473c0fa1b346053275f3cd6190aad2
+
 </div>
 <br>
 
