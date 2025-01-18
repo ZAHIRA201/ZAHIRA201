@@ -147,7 +147,7 @@
 <div align="center">
   <p>A glimpse into my life wouldn’t be complete without mentioning my furry companion. My cat is not just a pet, she’s a partner in crime. We share quiet moments, playful interactions and we had even solved bugs together, yes we did you better believe ! </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Cat_Blossom.gif" alt="cat" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Catty.gif" alt="cat" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Catty.gif" alt="cat" width="250" height="300">
 </div>
 <br>
 
@@ -161,8 +161,8 @@
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
   <p>Meditation and Spirituality ground me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon.gif" alt="read" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Meditation_Moon.gif" alt="read" width="250">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Sailor_Her.gif" alt="read" width="250">
 
 </div>
 <br> 
