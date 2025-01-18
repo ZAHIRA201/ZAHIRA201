@@ -161,15 +161,11 @@
 
 ## Meditation & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
-  <p>Meditation grounds me. It’s the tool that helps clear my mind from all the noise(+Gym), allowing me to focus on what truly matters. Every day is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
+  <p>Meditation grounds me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Meditation_Moon.gif" alt="read" width="300">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Sailor_Her.gif" alt="read" width="300">
 </div>
 <br> 
-
-
-
-
 
 </div>
 
