@@ -24,9 +24,9 @@
 <a href="https://www.datacamp.com/profile/chakirfez" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
 </div>
 
- <hr/>
+### Me as a Data Engineer 👩‍💻 :
 
-
+<hr/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAHIRA201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     
@@ -104,7 +104,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ZAHIRA201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<h2 align="center"> 🐍 ATE 🐍</h2>
+<h2 align="center"> 🐍 RECENTLY ATE 🐍</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHIRA201/ZAHIRA201/output/github-snake-dark.svg" />
@@ -113,13 +113,30 @@
 </picture>
 
 <br/>
-<hr/>
 
+### Me as a Person 🦋 :
+
+<hr/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=27&duration=4700&pause=700&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=450&height=60&lines=Code+with+peace%2C+flow+with+grace+✨" alt="Typing SVG" />
 </p>
-
 <hr/>
+
+<p align="center">
+  <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured. 💪📚🐱🎸🧘‍♀️</em>
+</p>
+<br>
+
+### Gym 🏋️‍♂️ :  
+When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical—it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically.  
+
+<br>
+<div align="center">
+<img align="center" alt="gym" width="400" src="https://github.com/ZAHIRA201/ZAHIRA201/blob/main/Gym_Fatty.gif">
+</div>
+<br>
+
+
 </div>
 
 <br/>
