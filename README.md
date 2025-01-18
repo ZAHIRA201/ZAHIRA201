@@ -127,12 +127,9 @@
 <p align="center">
   <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured. 💪📚🐱🎸🧘‍♀️</em>
 </p>
-<br>
 
 ## Gym 🏋️‍♂️ :
-<hr/>  
-
-<br>
+ 
 <div align="center">
   <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="300">
