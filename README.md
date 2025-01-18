@@ -132,7 +132,7 @@
 ### Gym 🏋️‍♂️ :  
 
 <br>
-<div style="display: flex; align-items: center;">
+<div align="center">
   <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty.gif" alt="gym" width="300">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gym_Fatty1.gif" alt="gym" width="300">
