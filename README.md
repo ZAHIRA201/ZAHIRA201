@@ -147,7 +147,7 @@
 <div align="center">
   <p>A glimpse into my life wouldn’t be complete without mentioning my furry companion. My cat is not just a pet, she’s a partner in crime. We share quiet moments, playful interactions and we had even solved bugs together, yes we did you better believe ! </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Cat_Blossom.gif" alt="cat" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Catty.gif" alt="cat" width="250" height="200">
+  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Catty.gif" alt="cat" width="250" height="198">
 </div>
 <br>
 
