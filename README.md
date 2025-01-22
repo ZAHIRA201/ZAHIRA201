@@ -139,6 +139,9 @@
 <div align="center">
   <p>In my free time; the world of psychology and philosophy is where I dive deep for self-understanding and growth. My gentlemen Fyodor Dostoevsky and Carl Jung have influenced my thinking profoundly. Human nature, moral dilemmas, and the complexity of suffering resonates with the intricate puzzles I encounter in life and data field. Dostoevsky's writings inspire me to ask the hard questions and explore the depths of the human psyche.  
   Carl Jung is concept of individuation is a guiding principle in my life, encouraging a balance between light and shadow within myself. Together, their works shape my approach to both understanding data, my data ! and the human behaviors in general. </p>
+  <p align="center">
+  <em>"I am not what happened to me, I am what I choose to become" Carl Jung</em>
+</p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast.gif" alt="read" width="250">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast_1.gif" alt="read" width="250">
 
@@ -163,6 +166,9 @@
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
   <p>Meditation and Spirituality ground me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
+  <p align="center">
+  <em>"Who looks outside, dreams; who looks inside, awakens"</em>
+</p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Meditation_Moon.gif" alt="read" width="250">
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Sailor_Her.gif" alt="read" width="250">
 
