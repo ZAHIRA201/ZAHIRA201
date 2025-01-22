@@ -120,7 +120,6 @@
 
 # Me as a Person 🦋 :
 
-
 <p align="center">
   <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured. 💪📚🐱🎸🧘‍♀️</em>
 </p>
