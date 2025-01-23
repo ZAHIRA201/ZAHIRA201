@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chakir-fatima-ez-zahra/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
 <a href="https://www.hackerrank.com/profile/ZAHIRA" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-000.svg?style=for-the-badge&logo=HackerRank&logoColor=2EC866"/></a>
 <a href="https://www.datacamp.com/portfolio/chakirfez" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
 <a href="https://www.kaggle.com/fezchakir" target="_blank"> <img align="center" src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
