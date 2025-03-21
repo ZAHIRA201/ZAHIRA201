@@ -1,6 +1,20 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+🤗✨;+I'm+Fatima+Ez-zahra+CHAKIR!;" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+        h1 { 
+            font-family: 'Righteous', sans-serif; 
+            font-size: 35px; 
+            text-align: center; 
+            color: #C71585; /* Dark Pink */
+        }
+    </style>
+</head>
+    <h1>Hey! I'm Fatima Ez-Zahra CHAKIR</h1>
+
+</html>
+
 
 <h2 align="center">Data Engineer Student</h2>
 
@@ -9,8 +23,6 @@
 <div align="center">
  
  🔭 I’m always cooking something.
- 
- 🌱 I’m currently learning **DevOps, LLM, Cloud**
 
  </div>
  
