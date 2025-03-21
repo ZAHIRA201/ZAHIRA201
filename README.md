@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Data Engineer Student</h2> <body> "🇲🇦" </body>
+<h2 align="center">Data Engineer Student</h2> 
 
 <br/>
 
