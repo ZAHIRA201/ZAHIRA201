@@ -1,8 +1,4 @@
-<h1 style="font-family: 'Righteous', Arial, sans-serif; font-size: 35px; text-align: center; color: #C71585; display: block; width: 100%;">
-    Hey! I'm Fatima Ez-zahra CHAKIR
-</h1>
-
-
+<h1 align="center" style="color:#C71585;">Hey! I'm Fatima Ez-zahra CHAKIR</h1>
 
 
 <h2 align="center">Data Engineer Student</h2>
