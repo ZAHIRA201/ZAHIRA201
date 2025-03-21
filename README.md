@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-        h1 { 
-            font-family: 'Righteous', sans-serif; 
-            font-size: 35px; 
-            text-align: center; 
-            color: #C71585; /* Dark Pink */
-        }
-    </style>
-</head>
-    <h1>Hey! I'm Fatima Ez-Zahra CHAKIR</h1>
+<h1 style="font-family: 'Righteous', sans-serif; font-size: 35px; text-align: center; color: #C71585;">
+    Hey! I'm Fatima Ez-zahra CHAKIR
+</h1>
 
-</html>
 
 
 <h2 align="center">Data Engineer Student</h2>
