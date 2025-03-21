@@ -1,6 +1,7 @@
-<h1 style="font-family: 'Righteous', sans-serif; font-size: 35px; text-align: center; color: #C71585;">
+<h1 style="font-family: 'Righteous', Arial, sans-serif; font-size: 35px; text-align: center; color: #C71585; display: block; width: 100%;">
     Hey! I'm Fatima Ez-zahra CHAKIR
 </h1>
+
 
 
 
