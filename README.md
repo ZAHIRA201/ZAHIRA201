@@ -120,19 +120,8 @@
 # Me as a Person 🦋 :
 
 <p align="center">
-  <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured. 💪📚🐱🎸🧘‍♀️</em>
+  <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured.🧘‍♀️</em>
 </p>
-
-## Gym 🏋️‍♂️ :
-<div align="center">
-  <p>When I’m not architecting databases, you’ll find me at the gym, pushing my limits. Fitness is more than just physical, it’s a ritual that helps me recalibrate, unlock energy, and stay motivated. I believe in the power of strength and endurance to go the distance—both mentally and physically. </p>
-  <p align="center">
-  <em>"Makete Makete Makete Kate" Ragna Crimson</em>
-</p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Demonslayer.gif" alt="gym" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Mei.gif" alt="gym" width="250">
-</div>
-<br>
 
 ## Books 📚 :  
 <div align="center">
@@ -164,7 +153,7 @@
 
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
-  <p>Meditation and Spirituality ground me, devour me. It’s the tool (+Gym) that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
+  <p>Meditation and Spirituality ground me, devour me. It’s the tool that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
   <p align="center">
   <em>"Who looks outside, dreams; who looks inside, awakens"</em>
 </p>
