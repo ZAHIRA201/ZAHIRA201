@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Data & BI Engineer</h2> 
+<h2 align="center">Data Analytics Engineer</h2> 
 
 <br/>
 
