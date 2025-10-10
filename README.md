@@ -117,33 +117,6 @@
 </p>
 <hr/>
 
-# Me as a Person 🦋 :
-
-<p align="center">
-  <em>My journey is not just about bytes and tables. Every day I blend my career with mindfulness, fitness, music, and my love for learning. I aim to live a holistic life where every part of me, my mind, body, and heart, are well-nurtured.🧘‍♀️</em>
-</p>
-
-## Books 📚 :  
-<div align="center">
-  <p>In my free time; the world of psychology and philosophy is where I dive deep for self-understanding and growth. My gentlemen Fyodor Dostoevsky and Carl Jung have influenced my thinking profoundly. Human nature, moral dilemmas, and the complexity of suffering resonates with the intricate puzzles I encounter in life and data field. Dostoevsky's writings inspire me to ask the hard questions and explore the depths of the human psyche.  
-  Carl Jung is concept of individuation is a guiding principle in my life, encouraging a balance between light and shadow within myself. Together, their works shape my approach to both understanding data, my data ! and the human behaviors in general. </p>
-  <p align="center">
-  <em>"I am not what happened to me, I am what I choose to become" Carl Jung</em>
-</p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast.gif" alt="read" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Beauty _And _The _Beast_1.gif" alt="read" width="250">
-
-</div>
-<br>
-
-## Me & My Cat 🐱 :  
-<div align="center">
-  <p>A glimpse into my life wouldn’t be complete without mentioning my furry companion. My cat is not just a pet, she’s a partner in crime. We share quiet moments, playful interactions and we had even solved bugs together, yes we did you better believe! </p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Cat_Blossom.gif" alt="cat" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Catty.gif" alt="cat" width="250" height="198">
-</div>
-<br>
-
 ## My Guitar 🎸 :  
 <div align="center">
   <p>Music is my other passion besides data, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own sweety tunes, I find solace and creativity in every note I make. Playing the guitar allowed me to unwind and explore another way of expressing myself outside bytes and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
