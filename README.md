@@ -16,7 +16,7 @@
 <a href="https://www.kaggle.com/fezchakir" target="_blank"> <img align="center" src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
 </div>
 
-## Me as a Data Engineer 👩‍💻 :
+## Data Engineering :
 
 <hr/>
 <div align="center">
