@@ -78,7 +78,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
 </div>
-<h2 align="center">🏆 Trophies 🏆</h2>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=ZAHIRA201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -98,13 +98,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=27&duration=4700&pause=700&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=450&height=60&lines=Code+with+peace%2C+flow+with+grace" alt="Typing SVG" />
 </p>
 <hr/>
-
-## My Guitar 🎸 :  
-<div align="center">
-  <p>Music is my other passion besides data, and my guitar is my best friend. Whether I’m strumming through melodies or composing my own sweety tunes, I find solace and creativity in every note I make. Playing the guitar allowed me to unwind and explore another way of expressing myself outside bytes and logic. There’s magic in how music and data align, both need structure, but also thrive in moments of spontaneity.</p>
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Acoustic_Guitar.gif" alt="guitar" width="400">
-</div>
-<br>
 
 ## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
 <div align="center">
