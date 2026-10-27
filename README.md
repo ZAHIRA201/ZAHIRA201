@@ -102,7 +102,6 @@
   <em>"Who looks outside, dreams; who looks inside, awakens"</em>
 </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Meditation_Moon.gif" alt="read" width="250">
-  <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Sailor_Her.gif" alt="read" width="250">
 
 </div>
 <br> 
