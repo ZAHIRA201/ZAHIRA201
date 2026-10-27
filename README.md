@@ -99,10 +99,6 @@
 </p>
 <hr/>
 
-## Meditation, Spirituality & Moving Forward 🧘‍♀️📈 :   
-<div align="center">
-  <p>Meditation and Spirituality ground me, devour me. It’s the tool that helps clear my mind from all the noise, allowing me to focus on what truly matters. Every day to me is a journey toward constant self-improvement, as I blend mindfulness with relentless growth. I embrace challenges and believe moving forward is a natural process when both body and mind are aligned. </p>
-  <p align="center">
   <em>"Who looks outside, dreams; who looks inside, awakens"</em>
 </p>
   <img src="https://github.com/ZAHIRA201/ZAHIRA201/blob/master/Gifs/Meditation_Moon.gif" alt="read" width="250">
